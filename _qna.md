@@ -4,7 +4,7 @@ How to build kernel? How kernel decides which dts to be used?
 
 What's the difference between `printf()` and `printk()`?
 
-What are inline funtions? What's the upside and downside of using it? When to use? Why not just using MACROs?
+What are inline functions? What's the upside and downside of using it? When to use? Why not just using MACROs?
 
 How to write assembly codes inline?
 
